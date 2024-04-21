@@ -1,4 +1,4 @@
-### Hi 👋 ! My name is Matheus Cordeiro and I'm a Student
+## Hi 👋 ! My name is Matheus Cordeiro and I'm a Student
 
 
  🌱 I’m currently studying Javascript and Python
