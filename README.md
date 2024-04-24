@@ -11,6 +11,8 @@
 
 <!--Linguagens-->
 
+![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs?username=CordeiroMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false")
+
 ## Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
