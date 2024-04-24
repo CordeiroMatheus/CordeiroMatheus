@@ -11,7 +11,7 @@
 
 <!--Linguagens-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact)](https://github.com/CordeiroMatheus/github-readme-stats)
+![Estatísticas linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact)
 
 ## Linguagens
 <div align="left">
