@@ -11,7 +11,7 @@
 
 <!--Linguagens-->
 
-![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs?username=CordeiroMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact)](https://github.com/CordeiroMatheus/github-readme-stats)
 
 ## Linguagens
 <div align="left">
