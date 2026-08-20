@@ -9,63 +9,58 @@
 
 # Matheus Cordeiro
 
-### `IT Student` · `Developer in progress`
-
-**Building things. Learning how they work.**
+### `Estudante de TI` · `Desenvolvedor em formação`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-CordeiroMatheus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CordeiroMatheus)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordeirogmatheus@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cordeirogmatheus@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN_AQUI)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm an **IT student** focused on software development and continuously
-building my programming foundations.
+Sou estudante de **Tecnologia da Informação**, focado em desenvolvimento de software e na construção constante da minha base de programação.
 
-I'm particularly interested in **web development, backend development,
-databases and understanding how software works under the hood**.
+Minha trajetória na área começou na **ETEC**, onde cursei **Desenvolvimento de Sistemas**. Atualmente, continuo minha formação na **UFABC**, aprofundando meus conhecimentos em programação, computação e desenvolvimento de software.
 
-I'm currently strengthening my JavaScript fundamentals and moving deeper
-into the **Node.js ecosystem**, while continuing to build projects and
-experiment with different technologies.
+Tenho particular interesse em **desenvolvimento web, backend, bancos de dados e em entender como o software funciona por baixo dos panos**.
 
-- 🎓 IT Student
-- 💻 Focused on software development
-- 🌱 Currently learning **JavaScript, Node.js and React**
-- 🐧 Linux user
-- 🗄️ Interested in backend development and databases
-- 🔨 Learning by building projects
+Atualmente, estou fortalecendo meus conhecimentos em **JavaScript** e avançando no ecossistema **Node.js**, enquanto continuo desenvolvendo projetos e explorando novas tecnologias.
+
+* 🎓 Estudante de **Ciência e tecnologia na UFABC**
+* 💻 Técnico em **Desenvolvimento de Sistemas pela ETEC**
+* 🌱 Atualmente estudando **JavaScript, TypeScript, Node.js e React**
+* 🐧 Usuário de **Linux**
+* 🗄️ Interessado em **backend e bancos de dados**
+* 🔨 Aprendendo através do desenvolvimento de projetos
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Atualmente estudando
 
 <div align="center">
 
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js\&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts\&theme=dark)](https://www.typescriptlang.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs\&theme=dark)](https://nodejs.org/)
+[![Express.js](https://skillicons.dev/icons?i=express\&theme=dark)](https://expressjs.com/)
+[![React](https://skillicons.dev/icons?i=react\&theme=dark)](https://react.dev/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres\&theme=dark)](https://www.postgresql.org/)
 
 </div>
 
-> My current focus is strengthening JavaScript before going deeper into
-> backend development with Node.js.
-
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Tecnologias & Ferramentas
 
-### Languages
+### Linguagens
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,php,bash,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,bash,html,css\&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -73,7 +68,7 @@ experiment with different technologies.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react\&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -81,67 +76,80 @@ experiment with different technologies.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php\&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Databases
+### Bancos de Dados
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql\&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Tools & Environment
+### Ferramentas & Ambiente
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,vscode\&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Projetos
 
-I'm currently building projects while expanding my knowledge of
-programming, web development and backend technologies.
+Atualmente estou desenvolvendo projetos enquanto amplio meus conhecimentos em programação, desenvolvimento web e tecnologias backend.
 
-### 📁 Projects
+### 📁 Projetos
 
-> More projects coming as I continue learning and building.
+> Mais projetos serão adicionados conforme continuo aprendendo e construindo.
+
+### [Bunco](https://github.com/CordeiroMatheus/bunco)
+
+Site e APIs desenvolvidos como parte do meu **TCC durante a formação em Desenvolvimento de Sistemas na ETEC**.
+
+O projeto reúne uma aplicação web, APIs e uma estrutura de banco de dados.
+
+**Tecnologias:** PHP · JavaScript · HTML · CSS
+
+### [Email PHP](https://github.com/CordeiroMatheus/email-php)
+
+Projeto desenvolvido para estudar e implementar o **envio de e-mails utilizando PHP**.
+
+**Tecnologia:** PHP
 
 <!--
-  Add your projects here as they become ready.
+  Adicione seus projetos aqui conforme eles estiverem prontos.
 
-  Example:
+  Exemplo:
 
-  ### [Project Name](https://github.com/CordeiroMatheus/project)
+  ### [Nome do Projeto](https://github.com/CordeiroMatheus/projeto)
 
-  Short description of what the project does and what you learned
-  while building it.
+  Breve descrição do que o projeto faz e o que você aprendeu
+  durante seu desenvolvimento.
 
-  **Technologies:** JavaScript · Node.js · PostgreSQL
+  **Tecnologias:** JavaScript · Node.js · PostgreSQL
 -->
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <a href="https://github.com/CordeiroMatheus">
 
 <img height="180"
-src="https://github-stats-extended.vercel.app/api?username=CordeiroMatheus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=en"/>
+src="https://github-readme-stats.vercel.app/api?username=CordeiroMatheus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=pt-br"/>
 
 </a>
 
 <a href="https://github.com/CordeiroMatheus">
 
 <img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=en"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=pt-br"/>
 
 </a>
 
@@ -159,26 +167,28 @@ src="https://streak-stats.demolab.com?user=CordeiroMatheus&theme=github-dark&hid
 
 ---
 
-# 📈 Activity
+# 📈 Atividade
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroMatheus&theme=github-compact&hide_border=true&area=true)](https://github.com/CordeiroMatheus)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroMatheus\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/CordeiroMatheus)
 
 </div>
 
 ---
 
-# 📚 What I'm Exploring
+# 📚 O que estou explorando
 
 ```text
-Programming
+Programação
 ├── JavaScript
-│   ├── Fundamentals
+│   ├── Fundamentos
 │   ├── DOM
 │   ├── Promises
 │   ├── Fetch API
-│   └── Async programming
+│   └── Programação assíncrona
+│
+├── TypeScript
 │
 ├── Backend
 │   ├── Node.js
@@ -189,6 +199,7 @@ Programming
 │   ├── CSS
 │   └── React
 │
-└── Databases
+└── Bancos de Dados
     ├── PostgreSQL
     └── MySQL
+```
