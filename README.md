@@ -1,57 +1,194 @@
-## Hi 👋 ! My name is Matheus Cordeiro and I'm a Student
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                     MATHEUS CORDEIRO                        ║
+  ║                  IT STUDENT · DEVELOPER                     ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
 
- 🌱 I’m currently studying Javascript and Python
-  
+# Matheus Cordeiro
 
+### `IT Student` · `Developer in progress`
 
-<!--Estatísticas-->
+**Building things. Learning how they work.**
 
-![Estatísticas do Github de Matheus Cordeiro](https://github-readme-stats.vercel.app/api?username=CordeiroMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false")
+<br>
 
-<!--Linguagens-->
+[![GitHub](https://img.shields.io/badge/GitHub-CordeiroMatheus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CordeiroMatheus)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordeirogmatheus@gmail.com)
 
-![Estatísticas linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroMatheus)
-
-## Linguagens
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
 </div>
 
-###
+---
 
-<!--Redes sociais-->
+## 👨‍💻 About Me
 
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/></a>
-<a href="mailto:cordeirogmatheus@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+I'm an **IT student** focused on software development and continuously
+building my programming foundations.
 
+I'm particularly interested in **web development, backend development,
+databases and understanding how software works under the hood**.
 
+I'm currently strengthening my JavaScript fundamentals and moving deeper
+into the **Node.js ecosystem**, while continuing to build projects and
+experiment with different technologies.
 
+- 🎓 IT Student
+- 💻 Focused on software development
+- 🌱 Currently learning **JavaScript, Node.js and React**
+- 🐧 Linux user
+- 🗄️ Interested in backend development and databases
+- 🔨 Learning by building projects
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
+
+</div>
+
+> My current focus is strengthening JavaScript before going deeper into
+> backend development with Node.js.
+
+---
+
+# 🛠️ Technologies & Tools
+
+### Languages
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,php,bash,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Backend
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Databases
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Tools & Environment
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 🚀 Projects
+
+I'm currently building projects while expanding my knowledge of
+programming, web development and backend technologies.
+
+### 📁 Projects
+
+> More projects coming as I continue learning and building.
 
 <!--
-<img src="https://raw.githubusercontent.com/CordeiroMatheus/CordeiroMatheus/output/snake.svg" alt="Snake animation" />-->
-<!--
-**CordeiroMatheus/CordeiroMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Add your projects here as they become ready.
 
-Here are some ideas to get you started:
+  Example:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ### [Project Name](https://github.com/CordeiroMatheus/project)
+
+  Short description of what the project does and what you learned
+  while building it.
+
+  **Technologies:** JavaScript · Node.js · PostgreSQL
 -->
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/CordeiroMatheus">
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=CordeiroMatheus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=en"/>
+
+</a>
+
+<a href="https://github.com/CordeiroMatheus">
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=CordeiroMatheus&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=en"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=CordeiroMatheus&theme=github-dark&hide_border=true&border_radius=8"
+/>
+
+</div>
+
+---
+
+# 📈 Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroMatheus&theme=github-compact&hide_border=true&area=true)](https://github.com/CordeiroMatheus)
+
+</div>
+
+---
+
+# 📚 What I'm Exploring
+
+```text
+Programming
+├── JavaScript
+│   ├── Fundamentals
+│   ├── DOM
+│   ├── Promises
+│   ├── Fetch API
+│   └── Async programming
+│
+├── Backend
+│   ├── Node.js
+│   └── Express.js
+│
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   └── React
+│
+└── Databases
+    ├── PostgreSQL
+    └── MySQL
