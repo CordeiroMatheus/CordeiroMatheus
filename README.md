@@ -119,7 +119,7 @@ O projeto reúne uma aplicação web, APIs e uma estrutura de banco de dados.
 
 Projeto desenvolvido para estudar e implementar o **envio de e-mails utilizando PHP**.
 
-**Tecnologias:** PHP · Tailwind CSS · Laragon
+**Tecnologias:** PHP · Laragon
 
 <!--
   Adicione seus projetos aqui conforme eles estiverem prontos.
