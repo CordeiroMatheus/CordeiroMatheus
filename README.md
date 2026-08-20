@@ -49,6 +49,7 @@ Atualmente, estou fortalecendo meus conhecimentos em **JavaScript** e avançando
 [![Express.js](https://skillicons.dev/icons?i=express\&theme=dark)](https://expressjs.com/)
 [![React](https://skillicons.dev/icons?i=react\&theme=dark)](https://react.dev/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres\&theme=dark)](https://www.postgresql.org/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind\&theme=dark)](https://tailwindcss.com/)
 
 </div>
 
@@ -68,7 +69,7 @@ Atualmente, estou fortalecendo meus conhecimentos em **JavaScript** e avançando
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind\&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -92,7 +93,7 @@ Atualmente, estou fortalecendo meus conhecimentos em **JavaScript** e avançando
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,vscode\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,vscode,laragon\&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -118,7 +119,7 @@ O projeto reúne uma aplicação web, APIs e uma estrutura de banco de dados.
 
 Projeto desenvolvido para estudar e implementar o **envio de e-mails utilizando PHP**.
 
-**Tecnologia:** PHP
+**Tecnologias:** PHP · Tailwind CSS · Laragon
 
 <!--
   Adicione seus projetos aqui conforme eles estiverem prontos.
@@ -197,9 +198,9 @@ Programação
 ├── Frontend
 │   ├── HTML
 │   ├── CSS
-│   └── React
+│   ├── React
+│   └── Tailwind CSS
 │
 └── Bancos de Dados
     ├── PostgreSQL
     └── MySQL
-```
